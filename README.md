@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Blake!
-👨‍💻 Software Engineer with most experience in web and mobile development<br/>
+👨‍💻 Software Engineer experienced in web and mobile development<br/>
 👨‍🎓 Studied Computer Science at the University of Lethbridge, Canada<br/>
 
 - 👨‍💻 All of my projects are available on my GitHub or at [https://blakemclachlin.netlify.app](https://blakemclachlin.netlify.app)
