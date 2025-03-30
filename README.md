@@ -2,7 +2,7 @@
 👨‍💻 Software Engineer experienced in web and mobile development<br/>
 👨‍🎓 Studied Computer Science at the University of Lethbridge, Canada<br/>
 
-- 👨‍💻 All of my projects are available on my GitHub or at [https://blakemclachlin.netlify.app](https://blakemclachlin.netlify.app)
+- 👨‍💻 All of my projects are available on my GitHub
 
 - 📫 How to reach me **blake.mclachlin@icloud.com**
 
