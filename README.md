@@ -16,8 +16,6 @@
 <h3 align="left">Additional stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bmclachlin1&show_icons=true&locale=en&layout=compact" alt="bmclachlin1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bmclachlin1&show_icons=true&locale=en" alt="bmclachlin1" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bmclachlin1&" alt="bmclachlin1" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bmclachlin1" alt="bmclachlin1" /></a> </p>
